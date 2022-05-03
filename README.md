@@ -117,7 +117,7 @@ We also provide human-translated subsamples (200 dialogues) in English from `car
 
 We sampled dialogues of each two type (**Filtered** and **Feedback** in Table 2 of our paper.) for the data release.
 
-|Data Name | carecall_filtered_10k | carecall_feedbak_100 |
+|Data Name | carecall_filtered_10k | carecall_feedback_100 |
 |--- | --- | --- |
 |Dialogue Type| Filtered | Feedback |
 |# Dialogues | 10,500 | 100 |
